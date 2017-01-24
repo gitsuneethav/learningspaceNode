@@ -1,5 +1,3 @@
-# ![Node/Express/Mongoose App]
-
 >
 # Code Overview
 
