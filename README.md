@@ -1,4 +1,4 @@
-# ![Node/Express/Mongoose App](project-logo.png)
+# ![Node/Express/Mongoose App]
 
 >
 # Code Overview
